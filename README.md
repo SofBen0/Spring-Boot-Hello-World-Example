@@ -1,3 +1,3 @@
 # Spring-Boot-Hello-World-Example
 
-c'est un projet test pour utilisation jenkins
+C'est un projet test pour utilisation jenkins
